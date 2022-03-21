@@ -105,7 +105,7 @@ const App = () => {
 	};
 	return (
 		<div className="App">
-			<h1>My recipes app</h1>
+			<h1>My recipes</h1>
 			<button onClick={() => setPopupActive(!popupActive)}>Add recipe</button>
 
 			<div className="recipes">

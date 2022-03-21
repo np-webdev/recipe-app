@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/github.com/recipe-app/static/css/main.073c9b0a.css",
-    "main.js": "/github.com/recipe-app/static/js/main.3600f41d.js",
-    "static/js/787.13aee4be.chunk.js": "/github.com/recipe-app/static/js/787.13aee4be.chunk.js",
-    "static/media/logo.svg": "/github.com/recipe-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/github.com/recipe-app/index.html",
-    "main.073c9b0a.css.map": "/github.com/recipe-app/static/css/main.073c9b0a.css.map",
-    "main.3600f41d.js.map": "/github.com/recipe-app/static/js/main.3600f41d.js.map",
-    "787.13aee4be.chunk.js.map": "/github.com/recipe-app/static/js/787.13aee4be.chunk.js.map"
+    "main.css": "/np-webdev/recipe-app/static/css/main.073c9b0a.css",
+    "main.js": "/np-webdev/recipe-app/static/js/main.b79219dc.js",
+    "static/js/787.13aee4be.chunk.js": "/np-webdev/recipe-app/static/js/787.13aee4be.chunk.js",
+    "static/media/logo.svg": "/np-webdev/recipe-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/np-webdev/recipe-app/index.html",
+    "main.073c9b0a.css.map": "/np-webdev/recipe-app/static/css/main.073c9b0a.css.map",
+    "main.b79219dc.js.map": "/np-webdev/recipe-app/static/js/main.b79219dc.js.map",
+    "787.13aee4be.chunk.js.map": "/np-webdev/recipe-app/static/js/787.13aee4be.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.3600f41d.js"
+    "static/js/main.b79219dc.js"
   ]
 }
